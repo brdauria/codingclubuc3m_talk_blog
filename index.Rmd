@@ -1,5 +1,8 @@
 ---
 layout: home
+output:
+  md_document:
+    preserve_yaml: true
 ---
 # Welcome to my Blog
 
