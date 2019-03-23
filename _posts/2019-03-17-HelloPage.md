@@ -1,7 +1,7 @@
 ---
-title: Hello World!
-author: Bernardo DAuria
-date: '2019-03-17'
+title: "Hello World!"
+author: "Bernardo D\'Auria"
+date: "2019-03-17"
 ---
 
 Let us sum `1+1` by **R**.
