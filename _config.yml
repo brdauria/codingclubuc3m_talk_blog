@@ -1,8 +1,8 @@
 title: My first blog
 description: >- # this means to ignore newlines until "email:"
-  This blog has been creatged during the mini-course 
-  "Blogging with R" by Bernardo DAuria on Tuesday March 26th, 2019
-email: myemail@university.edu
+  "This blog has been creatged during the mini-course 
+  'Blogging with R' by Bernardo D'Auria on Tue March 26th, 2019"
+email: my.email@university.edu
 
 # Build settings
 markdown: kramdown
