@@ -1,8 +1,12 @@
-theme: jekyll-theme-time-machine
+title: My first blog
+description: >- # this means to ignore newlines until "email:"
+  This blog has been creatged during the mini-course 
+  "Blogging with R" by Bernardo DAuria on Tuesday March 26th, 2019
+email: myemail@university.edu
 
 # Build settings
 markdown: kramdown
 exclude: ['*.Rmd'] 
-theme: minima
+theme: jekyll-theme-time-machine
 plugins:
-  - jekyll-feed
+  - jekyll-feed # to serve posts
