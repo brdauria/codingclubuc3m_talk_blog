@@ -7,6 +7,6 @@ email: myemail@university.edu
 # Build settings
 markdown: kramdown
 exclude: ['*.Rmd'] 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed # to serve posts
