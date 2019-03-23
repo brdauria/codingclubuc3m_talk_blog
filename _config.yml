@@ -1,4 +1,8 @@
 theme: jekyll-theme-time-machine
 
 # Build settings
+markdown: kramdown
 exclude: ['*.Rmd'] 
+theme: minima
+plugins:
+  - jekyll-feed
