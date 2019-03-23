@@ -1,6 +1,6 @@
 ---
 title: Hello PAGE!
-author: Bernardo D'Auria
+author: Bernardo DAuria
 date: '2019-03-25'
 ---
 
