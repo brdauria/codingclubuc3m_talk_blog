@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-author: Bernardo D'Auria
+author: Bernardo DAuria
 date: '2019-03-26'
 ---
 
