@@ -1,13 +1,18 @@
 ---
 title: Hello World!
-author: Bernardo D'Auria
-date: '2019-03-26'
+author: Bernardo DAuria
+date: '2019-03-18'
 ---
 
 
 ## Hello World!
 
 Let us sum `1+1` by **R**.
-```{r}
+
+```r
 1+1
+```
+
+```
+## [1] 2
 ```
