@@ -1,6 +1,6 @@
 ---
 title: "Hello World!"
-author: "Bernardo D\'Auria"
+author: "Bernardo D'Auria"
 date: "2019-03-26"
 ---
 
