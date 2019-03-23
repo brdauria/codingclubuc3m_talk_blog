@@ -1,8 +1,5 @@
 ---
-layout: default
-output:
-  md_document:
-    preserve_yaml: true
+layout: home
 ---
 
 Welcome to my Blog
