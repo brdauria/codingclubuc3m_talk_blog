@@ -14,7 +14,7 @@ markdown: kramdown
 exclude: ["*.Rmd"]
 plugins:
   # - jekyll-feed # to serve posts
-  # - jekyll-include-cache
+  - jekyll-include-cache
   # - jekyll-paginate
   
 defaults:

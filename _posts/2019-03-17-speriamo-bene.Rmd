@@ -1,7 +1,6 @@
 ---
 title: Speriamo bene
-layout: post
-mathjax: true
+layout: mpost
 author: sempre io
 date: '2019-03-17'
 slug: speriamo-bene
@@ -10,7 +9,7 @@ categories:
 tags: []
 ---
 
-Allora due belle formule
+Allora due belle formule  
 - $E=m C^2$
 - $\int \sin(x) \, dx = \cos(x)$
 
