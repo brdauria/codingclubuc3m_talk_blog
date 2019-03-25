@@ -1,7 +1,6 @@
 ---
 title: Prova
-layout: post
-mathjax: true
+layout: mpost
 author: Bernardo
 date: '2019-03-11'
 slug: prova
