@@ -16,7 +16,7 @@ local({
     cache.path = sprintf('cache/%s/', d)
   )
   # set where you want to host the figures 
-  if (Sys.getenv('USER') == 'brdauria') {
+  if (Sys.getenv('USER') == 'bernardodauria') {
     # these settings are only for myself, and they will not apply to you, but
     # you may want to adapt them to your own website
     knitr::opts_chunk$set(fig.path = sprintf('%s/', gsub('^.+/', '', d)))
