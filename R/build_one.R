@@ -12,20 +12,15 @@ local({
   # d = gsub('^_|[.][a-zA-Z]+$', '', a[1])
   d = gsub('^([._/]+)|[.][a-zA-Z]+$', '', a[1])
   knitr::opts_chunk$set(
-    fig.path   = sprintf('assets/figures/%s/', d),
+    # fig.path   = sprintf('assets/figures/%s/', d),
+    fig.path = sprintf('%s/', gsub('^.+/', '', d)),
     cache.path = sprintf('cache/%s/', d)
   )
-  # set where you want to host the figures 
-  if (Sys.getenv('USER') == 'bernardodauria') {
-    # these settings are only for myself, and they will not apply to you, but
-    # you may want to adapt them to your own website
-    knitr::opts_chunk$set(
-      fig.path = sprintf('%s/', gsub('^.+/', '', d))
-    )
-    knitr::opts_knit$set(
-      base.dir = 'assets/figures/',
-      base.url = '{{ site.baseurl }}/assets/figures/'
-    )
+  if (getOption('blogdown.base.dir', '') != '') {
+    knitr::opts_knit$set(base.dir = getOption('blogdown.base.dir', ''))
+  }
+  if (getOption('blogdown.base.url', '') != '') {
+    knitr::opts_knit$set(base.url = getOption('blogdown.base.url', ''))
   }
   options(digits = 4)
   knitr::opts_knit$set(width = 70)
