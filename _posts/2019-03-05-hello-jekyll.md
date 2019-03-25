@@ -18,7 +18,7 @@ library(ggplot2)
 ggplot(iris,aes(x=Sepal.Width,y=Sepal.Length)) + geom_point()
 {% endhighlight %}
 
-![plot of chunk unnamed-chunk-1]({{ site.baseurl }}/assets/figures/2019-03-05-hello-jekyll/unnamed-chunk-1-1.png)
+![plot of chunk unnamed-chunk-1]({{ "assets/figures/" | prepend: site.baseurl }}2019-03-05-hello-jekyll/unnamed-chunk-1-1.png)
 
 and an external picture
 
