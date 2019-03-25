@@ -226,4 +226,4 @@ ed ora un **GRAFICO**
 ## [1] 35
 {% endhighlight %}
 
-![plot of chunk unnamed-chunk-1]({{ "assets/figures/" | prepend: site.baseurl }}2019-03-17-speriamo-bene/unnamed-chunk-1-1.png)![plot of chunk unnamed-chunk-1]({{ "assets/figures/" | prepend: site.baseurl }}2019-03-17-speriamo-bene/unnamed-chunk-1-2.png)
+![plot of chunk unnamed-chunk-1]({{ "/assets/figures/" | prepend: site.baseurl }}2019-03-17-speriamo-bene/unnamed-chunk-1-1.png)![plot of chunk unnamed-chunk-1]({{ "/assets/figures/" | prepend: site.baseurl }}2019-03-17-speriamo-bene/unnamed-chunk-1-2.png)
