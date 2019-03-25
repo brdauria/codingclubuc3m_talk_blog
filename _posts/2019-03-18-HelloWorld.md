@@ -1,5 +1,6 @@
 ---
 title: "Hello World!"
+layout: post
 author: "Bernardo D'Auria"
 date: "2019-03-18"
 ---

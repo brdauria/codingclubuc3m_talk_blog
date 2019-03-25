@@ -17,4 +17,5 @@ for (i in seq_len(nrow(files))) build_one(files[i, ])
 
 #system2('bundle','install')
 #system2('bundle','exec jekyll build')
+system2('jekyll', 'clean')
 system2('jekyll', 'build')

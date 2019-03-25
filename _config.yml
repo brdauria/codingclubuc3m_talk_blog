@@ -12,6 +12,11 @@ theme: minima
 markdown: kramdown
 exclude: ["*.Rmd"]
 plugins:
-  - jekyll-feed # to serve posts
-  - jekyll-include-cache
-      
+  #- jekyll-feed # to serve posts
+  # - jekyll-include-cache
+  
+defaults:
+  - scope:
+      path: "assets/figures"
+    values:
+      image: true
