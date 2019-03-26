@@ -1,5 +1,5 @@
 ---
-title: Prova
+title: Test one
 layout: post
 mathjax: true
 author: Bernardo
@@ -9,11 +9,11 @@ categories:
   - Math
 tags: []
 ---
-Proviamo con qualche grafico ancora
+This is a formula
 
-$$\int_{10}^{20} \sin(x) \, dx$$
+$$\int_{0}^{2\pi} \sin(x) \, dx = 0$$
 
-sopra c'è una formula
+and here a `gglot2` graph
 
 ```{r}
 library(ggplot2)

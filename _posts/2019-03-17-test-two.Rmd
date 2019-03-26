@@ -1,22 +1,23 @@
 ---
-title: Speriamo bene
+title: Test two
 layout: post
 mathjax: true
-author: sempre io
+author: Bernardo
 date: '2019-03-17'
-slug: speriamo-bene
 categories:
   - math
 tags: []
 ---
 
-Allora due belle formule
+Here are two formulas
+
 - $E=m C^2$
+
 - $\int \sin(x) \, dx = \cos(x)$
 
 $$e^{i \pi} = -1$$
 
-ed ora un **GRAFICO**
+and here it is a **Graph**
 
 ```{r echo=FALSE}
 
