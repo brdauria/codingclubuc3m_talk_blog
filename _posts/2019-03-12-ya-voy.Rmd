@@ -1,0 +1,19 @@
+---
+title: ya voy
+layout: mpost
+author: io
+date: '2019-03-12'
+slug: ya-voy
+categories:
+  - math
+tags: []
+---
+
+
+vamos a ver
+$$ 10 + 10^2$$
+
+```{r}
+library(ggplot2)
+ggplot(iris,aes(x=Sepal.Width,y=Sepal.Length)) + geom_point()
+```

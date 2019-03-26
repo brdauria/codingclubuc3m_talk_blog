@@ -1,7 +1,12 @@
 ---
+<<<<<<< HEAD:_posts/2019-03-11-test-one.Rmd
 title: Test one
 layout: post
 mathjax: true
+=======
+title: Prova
+layout: mpost
+>>>>>>> 8d0be545b66f6e02a911a23e603d947113d90d55:_posts/2019-03-11-prova.Rmd
 author: Bernardo
 date: '2019-03-11'
 slug: prova
