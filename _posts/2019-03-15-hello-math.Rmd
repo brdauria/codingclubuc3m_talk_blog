@@ -19,7 +19,5 @@ nice formulas
 - and this
 
   $$ \int_0^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2} $$
-<<<<<<< HEAD
-=======
-  
->>>>>>> 8d0be545b66f6e02a911a23e603d947113d90d55
+
+

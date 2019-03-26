@@ -1,16 +1,15 @@
 ---
-title: ya voy
+title: Test three
 layout: mpost
-author: io
+author: Bernardo
 date: '2019-03-12'
-slug: ya-voy
 categories:
   - math
 tags: []
 ---
 
 
-vamos a ver
+Simple sum 
 $$ 10 + 10^2$$
 
 ```{r}

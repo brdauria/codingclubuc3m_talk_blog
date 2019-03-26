@@ -1,26 +1,15 @@
 ---
-<<<<<<< HEAD:_posts/2019-03-17-test-two.Rmd
 title: Test two
-layout: post
-mathjax: true
-author: Bernardo
-=======
-title: Speriamo bene
 layout: mpost
-author: sempre io
->>>>>>> 8d0be545b66f6e02a911a23e603d947113d90d55:_posts/2019-03-17-speriamo-bene.Rmd
+author: Bernardo
 date: '2019-03-17'
 categories:
   - math
 tags: []
 ---
 
-<<<<<<< HEAD:_posts/2019-03-17-test-two.Rmd
 Here are two formulas
 
-=======
-Allora due belle formule  
->>>>>>> 8d0be545b66f6e02a911a23e603d947113d90d55:_posts/2019-03-17-speriamo-bene.Rmd
 - $E=m C^2$
 
 - $\int \sin(x) \, dx = \cos(x)$
